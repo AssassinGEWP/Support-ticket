@@ -1,0 +1,17 @@
+{
+  "Hardware": [
+    "Printer not working",
+    "Computer won't turn on",
+    "Keyboard malfunction"
+  ],
+  "Software": [
+    "Application crash",
+    "Software update issues",
+    "License activation problem"
+  ],
+  "Network": [
+    "Internet connectivity issues",
+    "VPN not connecting",
+    "Slow network speed"
+  ]
+}
